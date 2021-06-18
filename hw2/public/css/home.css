@@ -384,8 +384,8 @@ span#sede {
 
 @media (min-width:1400px) {
   #header {
-    font-size: 32px;
-    height: 12vh;
+    font-size: 28px;
+    height: 14vh;
   }
   #logo {
     height: 150px;

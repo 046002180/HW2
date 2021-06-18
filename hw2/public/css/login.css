@@ -6,7 +6,7 @@ body {
 }
 
 #header {
-  font-size: 32px;
+  font-size: 28px;
   height: 16vh;
   margin: 0 0px;
   display: flex;
@@ -28,7 +28,7 @@ body {
 
 #navbar {
   display: flex;
-  width: 40%;
+  width: 45%;
   align-items: center;
   position: absolute;
   right: 4vw;
@@ -347,7 +347,7 @@ span#sede {
 
 @media (min-width:1400px) {
   #header {
-    font-size: 32px;
+    font-size: 28px;
     height: 12vh;
   }
   #logo {
@@ -367,9 +367,9 @@ span#sede {
     margin-top: 3px;
   }
   #login-box {
-    width: 600px;
-    height: 600px;
-    margin-top: 40px;
+    width: 450px;
+    height: 450px;
+    margin-top: 60px;
   }
   #login-box h2 {
     margin-top: -80px;
